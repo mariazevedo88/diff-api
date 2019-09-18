@@ -32,7 +32,7 @@
 		<surefire.plugin.version>2.22.0</surefire.plugin.version>
 		<jacoco.version>0.8.4</jacoco.version>
 		<coveralls.version>4.3.0</coveralls.version>
-		<jackson-databind.version>2.9.9.3</jackson-databind.version>
+		<jackson-databind.version>2.10.0.pr3</jackson-databind.version>
 	</properties>
 
 	<dependencies>
